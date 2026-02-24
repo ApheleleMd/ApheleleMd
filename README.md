@@ -1,4 +1,4 @@
-# Hi, I'm Aphelele Mdebuka  
+ Hi, I'm Aphelele Mdebuka  
 
 🎓 Bachelor of Computing (Business Intelligence Major)  
 📊 Aspiring Data Scientist | Data Analyst | BI Developer  
