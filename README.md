@@ -1,3 +1,4 @@
+![Banner](banner.png)
 🎓 Bachelor of Computing (Business Intelligence Major)  
 📊 Aspiring Data Scientist | Data Analyst | BI Developer  
 📍 Johannesburg, South Africa  
