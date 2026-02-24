@@ -1,33 +1,24 @@
 ![Banner](banner.png)
 
-🎓 Bachelor of Computing (Business Intelligence Major)  
-📊 Aspiring Data Scientist | Data Analyst | BI Developer  
-📍 Johannesburg, South Africa  
-
-I am passionate about building data-driven solutions, designing intelligent systems, and transforming raw data into actionable insights.
-
----
+## About Me
+Bachelor of Computing (Business Intelligence Major)  
+Aspiring Data Scientist | BI Developer  
 
 ## Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=sql,javascript,c#,html,css,linux,vscode,powerbi,sqlserver,excel,git,github,c++" />
+</p>
 
-### Languages
-- SQL
-- JavaScript
-- C#
+## GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ApheleleMd&show_icons=true&theme=dark" />
+  <img src="https://streak-stats.demolab.com/?user=ApheleleMd&theme=dark" />
+</p>
 
-### Data & BI
-- Power BI
-- SQL Server
-- Excel
-
-### Web & Tools
-- HTML
-- CSS
-- Git
-- GitHub
-- GitHub Pages
-
----
+## Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ApheleleMd&theme=github-dark" />
+</p>
 
 ## Featured Projects
 
