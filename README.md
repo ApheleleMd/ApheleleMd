@@ -1,4 +1,5 @@
 ![Banner](banner.png)
+
 🎓 Bachelor of Computing (Business Intelligence Major)  
 📊 Aspiring Data Scientist | Data Analyst | BI Developer  
 📍 Johannesburg, South Africa  
@@ -32,12 +33,6 @@ I am passionate about building data-driven solutions, designing intelligent syst
 
 🔹 BC Wild Watch – Wildlife Sighting Analysis & Dashboard (Power BI)
 🔹 SQL Relational Database Design  
-
----
-
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ApheleleMd&show_icons=true&theme=default)
 
 ---
 
