@@ -8,7 +8,7 @@ Aspiring Data Scientist | BI Developer
 
 ### Programming & Development
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=sql,javascript,cs,cpp,html,css,vscode,,github" />
+  <img src="https://skillicons.dev/icons?i=sql,javascript,cs,cpp,html,css,vscode,github" />
 </p>
 
 ### Data & Business Intelligence
