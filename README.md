@@ -8,7 +8,7 @@ I am passionate about building data-driven solutions, designing intelligent syst
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 ### Languages
 - SQL
@@ -29,20 +29,20 @@ I am passionate about building data-driven solutions, designing intelligent syst
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 🔹 BC Wild Watch – Wildlife Sighting Analysis & Dashboard (Power BI)
 🔹 SQL Relational Database Design  
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ApheleleMd&show_icons=true&theme=default)
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
 - LinkedIn: www.linkedin.com/in/aphelele-mdebuka-17ba43238
 - Email: mdebukaa4@gmail.com
