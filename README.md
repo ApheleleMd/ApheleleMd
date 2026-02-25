@@ -2,7 +2,7 @@
 
 ## About Me
 Bachelor of Computing (Business Intelligence Major)  
-Aspiring Data Scientist | BI Developer  
+Aspiring Data Scientist 
 
 ## Tech Stack
 
